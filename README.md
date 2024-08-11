@@ -62,6 +62,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/melissa-neves-a61831280?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-neves-a61831280/)]([www.linkedin.com/in/melissa-neves-a61831280](https://www.linkedin.com/in/melissa-neves-a61831280/))
-[![Linkedin](https://img.shields.io/badge/melissa-neves-a61831280?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-neves-a61831280/)]()
+[![Linkedin](https://img.shields.io/badge/-melissa--neves--a61831280-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-neves-a61831280/)](https://www.linkedin.com/in/melissa-neves-a61831280/)
 [![Outlook Badge](https://img.shields.io/badge/-meliisa.neves05@outlook.com-333333?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:meliisa.neves05@outlook.com)](mailto:meliisa.neves05@outlook.com)
